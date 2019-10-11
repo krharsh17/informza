@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812393637826",
+    "firebase_url": "https://informza-167e9.firebaseio.com",
+    "project_id": "informza-167e9",
+    "storage_bucket": "informza-167e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812393637826:android:fefd92c08f678b8e04185b",
+        "android_client_info": {
+          "package_name": "in.kumarharsh.informza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812393637826-tf2t3pkph32qn6qgatcend18s2jbli80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.kumarharsh.informza",
+            "certificate_hash": "947405f4f64772a0df811c89e98651011885b02f"
+          }
+        },
+        {
+          "client_id": "812393637826-sieng35t7hr80erjhl7uin25d5bhlmf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9SW3lkPgvtuJ-OuXmUwXaGpszm-KC7G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812393637826-sieng35t7hr80erjhl7uin25d5bhlmf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

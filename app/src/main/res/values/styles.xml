@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SignIn" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#F0876E</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Home" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#F0876E</item>
+        <item name="colorPrimaryDark">#F0876E</item>
+        <item name="colorAccent">#F0876E</item>
+    </style>
+
+    <style name="NewPost" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#F0876E</item>
+        <item name="colorPrimaryDark">#F0876E</item>
+        <item name="colorAccent">#F0876E</item>
+    </style>
+
+</resources>
